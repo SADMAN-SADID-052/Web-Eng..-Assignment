@@ -1,11 +1,11 @@
 # Web-Eng..-Assignment
- Course Title : Web Engineering Lab [CSE-2210]
+ Course Title : Web Engineering Lab [CSE-2210] | 
  Topic : Simple Website using html and css.
  
 Submitted To:
-Md Samsuddoha
-Assistant Professor
-Dept. of CSE
+Md Samsuddoha | 
+Assistant Professor | 
+Dept. of CSE | 
 University of Barishal
 
 Submitted By:
