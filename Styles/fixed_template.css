@@ -1,0 +1,100 @@
+
+
+.img1{
+    margin-top: 15px;
+    margin-left: 60px;
+    height: 120px;
+    
+    
+}
+.container
+{
+    height: 150px;
+    width: 15%;
+    background-color: #6AB187;
+   
+}
+.page
+{
+    background-color:#B85042;
+    width:70%;
+    height: 150px;
+    margin-left: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.Side
+{
+    height: 150px;
+    width: 15%;
+    background-color: #6AB187;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.date
+{
+    font-size: 1rem;
+    
+    color: black;
+}
+
+.main
+{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.main123{
+    
+     display: flex;
+     gap: 10px;
+    
+     
+}
+.button
+{
+   
+    width: 100%;
+   display: grid;
+    grid-template-columns: repeat(6,1fr);
+
+    
+}
+
+.button > p{
+border: 2px black solid;
+background-color:#9FE2BF;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 10px;
+padding-bottom: 10px;
+cursor: pointer;
+}
+
+.button p a 
+{
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+}
+
+.button p a:hover{
+
+    background-color: white;
+}
+
+
+
+.zero,.one,.two,.three,.four,.five{
+
+    
+    color: black;
+    font-size: 20px;
+}
